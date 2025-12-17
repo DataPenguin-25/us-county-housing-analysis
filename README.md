@@ -27,7 +27,7 @@ This project analyzes the relationships between housing costs, household income,
 
 ## Tableau Storyboard
 
-📊 **[View Interactive Dashboard on Tableau Public](LINK_HERE)**
+📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/joseph.adamski/viz/6_7_17659610346080/USHousingAnalysis?publish=yes)**
 
 The storyboard includes:
 - Correlation analysis visualizations
